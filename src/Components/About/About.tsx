@@ -13,7 +13,7 @@ const About = () => {
           <div className="about__info">
             <p className="about__description">
               I am Em Diya, a Flutter Developer from Prey Veng,
-              Cambodia. I have rich experience in Mobile App Development with
+              Cambodia. I have rich experience in Hybrid Mobile App Development with
               Dart and Flutter Framework. also I am an Internship Trainer.
             </p>
             <button className="btn">Download CV</button>
@@ -23,8 +23,9 @@ const About = () => {
             <Skill name="Flutter" percent="80%" color="#027DFD" />
             <Skill name="Dart" percent="80%" color="#0553B1" />
             <Skill name="UX/UI" percent="60%" color="#ff4d61" />
-            <Skill name="React" percent="50%" color="#61dbfb" />
+            <Skill name="React Js" percent="50%" color="#61dbfb" />
             <Skill name="Node Js" percent="50%" color="#3c873a" />
+          
           </div>
         </div>
       </div>

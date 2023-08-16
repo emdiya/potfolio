@@ -12,25 +12,35 @@ const data = [
   {
     id: 2,
     image:
-      "https://media.licdn.com/dms/image/D4D12AQH7k7RQkcOKEg/article-cover_image-shrink_720_1280/0/1687085394712?e=2147483647&v=beta&t=0Ehb3OXJ1XdmvgC3YvdX-z7rqTMQE_paWCRqG-1SNkY",
+      "src/assets/z1logo.png",
     bgColor: "#ffd166",
-    title: "Json to Freezed Class",
-    des: "A freezed Class Generator using json data.",
+    title: "Z1 App",
+    des: "Digital Plateform",
   },
   {
-    id: 2,
-    image: "https://svgsilh.com/svg/312334.svg",
+    id: 3,
+    image:
+      "src/assets/z1logo.png",
     bgColor: "#ffd166",
-    title: "SVG Generator",
-    des: "Fix SVG problem",
+    title: "My Propertty & Agency Post",
+    des: "Real Estate Digital Plateform",
   },
   {
-    id: 2,
+    id: 4,
+    image:
+      "src/assets/z1logo.png",
+    bgColor: "#ffd166",
+    title: "Indication-Plus",
+    des: "Loan Estimate Digital Plateform",
+  },
+
+  {
+    id: 5,
     image:
       "https://media.istockphoto.com/id/1305960836/vector/mentor-and-mentee-in-workplace-rgb-color-icon.jpg?s=612x612&w=0&k=20&c=9vQ8Hd9QLCiK6L9G90ebJU9H6w3djFKrw2NHuG9AMXA=",
     bgColor: "#ffd166",
-    title: "Internship Trainer",
-    des: "8 tranies passed",
+    title: "Internship Training",
+    des: "4 tranies passed",
   },
 ];
 
