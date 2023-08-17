@@ -12,7 +12,7 @@ const data = [
   {
     id: 2,
     image:
-      "src/assets/z1logo.png",
+      "dist/assets/z1logo.png",
     bgColor: "#ffd166",
     title: "Z1 App",
     des: "Digital Plateform",
@@ -20,7 +20,7 @@ const data = [
   {
     id: 3,
     image:
-      "src/assets/z1logo.png",
+      "dist/assets/z1logo.png",
     bgColor: "#ffd166",
     title: "My Propertty & Agency Post",
     des: "Real Estate Digital Plateform",
@@ -28,7 +28,7 @@ const data = [
   {
     id: 4,
     image:
-      "src/assets/z1logo.png",
+      "dist/assets/z1logo.png",
     bgColor: "#ffd166",
     title: "Indication-Plus",
     des: "Loan Estimate Digital Plateform",

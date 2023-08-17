@@ -1,8 +1,8 @@
 const HeaderSocials = () => {
   return (
     <div className="home__socials">
-      <a href="" className="home__socials-link" target="_blank">
-        <i className="fa-brands fa-instagram"></i>
+      <a href="https://kh.linkedin.com/in/diya-em-9834b5241" className="home__socials-link" target="_blank">
+        <i className="fa-brands fa-linkedin"></i>
       </a>
       <a
         href="https://web.facebook.com/emdiya.tech"
