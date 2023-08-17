@@ -9,14 +9,14 @@ const data = [
       "https://storage.googleapis.com/cms-storage-bucket/0dbfcc7a59cd1cf16282.png",
     bgColor: "#ffd166",
     title: "Flutter",
-    des: "Build Mobile App (Android/IOS) with Flutter",
+    des: "Build Hybrid Mobile App (Android/IOS) with Flutter Framework",
   },
   {
     id: 2,
-    image: "https://mvolkmann.github.io/blog/assets/dart-logo.png?v=1.0.21",
+    image: "https://firebase.flutter.dev/img/flutterfire.svg",
     bgColor: "#06d6a0",
-    title: "Dart",
-    des: "Build API, Backend, Console App, Bare bone Web App with Dart",
+    title: "Flutter + Firebase",
+    des: "Build Mobile App Use Flutter Framework and Delploy to Firebase Store",
   },
   {
     id: 3,
@@ -45,7 +45,7 @@ const data = [
   {
     id: 6,
     image:
-      "https://o.remove.bg/downloads/46e1934e-b2da-4a6f-81df-cdb24ac962dc/flutter-web-node-removebg-preview.png",
+      "/src/assets/flutter-node.png",
     bgColor: "#FFB6C1",
     title: "Flutter + NodeJS",
     des: "Build FrontEnd Mobile App with Flutter Framework + NodeJS",
