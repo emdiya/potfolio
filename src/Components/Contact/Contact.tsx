@@ -1,6 +1,7 @@
 import "./Contact.css";
 
 const Contact = () => {
+  
   return (
     <section className="contact container section" id="contact">
       <h2 className="section__title">Contact</h2>

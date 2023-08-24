@@ -28,7 +28,7 @@ const data = [
   {
     id: 4,
     image:
-      "src/assets/z1logo.png",
+      "src/assets/indication_plus.svg",
     bgColor: "#ffd166",
     title: "Indication-Plus",
     des: "Loan Estimate Digital Plateform",
