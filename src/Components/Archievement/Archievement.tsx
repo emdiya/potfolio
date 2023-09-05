@@ -1,5 +1,6 @@
 import "./Archievement.css";
-
+import z1Logo from "../../assets/z1logo.png"
+import indication_plus from "../../assets/indication_plus.svg"
 const data = [
   {
     id: 1,
@@ -11,8 +12,7 @@ const data = [
   },
   {
     id: 2,
-    image:
-      "src/assets/z1logo.png",
+    image: z1Logo,
     bgColor: "#ffd166",
     title: "Z1 App",
     des: "Digital Plateform",
@@ -20,7 +20,7 @@ const data = [
   {
     id: 3,
     image:
-      "src/assets/z1logo.png",
+      z1Logo,
     bgColor: "#ffd166",
     title: "My Propertty & Agency Post",
     des: "Real Estate Digital Plateform",
@@ -28,7 +28,7 @@ const data = [
   {
     id: 4,
     image:
-      "src/assets/indication_plus.svg",
+    indication_plus,
     bgColor: "#ffd166",
     title: "Indication-Plus",
     des: "Loan Estimate Digital Plateform",
@@ -40,7 +40,7 @@ const data = [
       "https://media.istockphoto.com/id/1305960836/vector/mentor-and-mentee-in-workplace-rgb-color-icon.jpg?s=612x612&w=0&k=20&c=9vQ8Hd9QLCiK6L9G90ebJU9H6w3djFKrw2NHuG9AMXA=",
     bgColor: "#ffd166",
     title: "Internship Training",
-    des: "4 tranies passed",
+    des: "2 tranies passed",
   },
 ];
 

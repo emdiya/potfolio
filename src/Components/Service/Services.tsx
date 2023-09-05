@@ -1,6 +1,7 @@
 import "./Services.css";
 
 import ServiceCard from "./ServiceCard";
+import flutter_node from "../../assets/flutter-node.png"
 
 const data = [
   {
@@ -45,7 +46,7 @@ const data = [
   {
     id: 6,
     image:
-      "/src/assets/flutter-node.png",
+    flutter_node,
     bgColor: "#FFB6C1",
     title: "Flutter + NodeJS",
     des: "Build FrontEnd Mobile App with Flutter Framework + NodeJS",

@@ -10,7 +10,7 @@ const Home = () => {
       <div className="intro">
         <img src={Me} alt="" className="home__image" />
         <h1 className="home__name">EM  DiYA</h1>
-        <span className="home__education">I'm a Senior Flutter Developer</span>
+        <span className="home__education">I'm a Mid-Senior Flutter Developer</span>
         <HomeSocials />
         <a href="#contact" className="btn">
           Hire Me
