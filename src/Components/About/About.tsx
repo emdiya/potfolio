@@ -12,9 +12,15 @@ const About = () => {
         <div className="about__data grid">
           <div className="about__info">
             <p className="about__description">
-              I am Em Diya, a Flutter Developer from Prey Veng,
-              Cambodia. I have rich experience in Hybrid Mobile App Development with
-              Dart and Flutter Framework. also I am an Internship Trainer.
+              Hello, I am Em Diya, I am a young boy , who is a Mobile App Developer from Prey Veng,
+              Cambodia, I'm a skilled Flutter developer 
+              with over one year of experience based in Cambodia. 
+              I specialize in crafting dynamic and engaging mobile
+              applications using Flutter's versatile framework.
+              My background includes designing and implementing 
+              intuitive user interfaces while ensuring optimal performance. 
+              I'm excited to contribute my expertise to projects 
+              and collaborations in Cambodia's vibrant tech community
             </p>
             <button className="btn">Download CV</button>
           </div>
